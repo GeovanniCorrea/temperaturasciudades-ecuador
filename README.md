@@ -1,1 +1,1 @@
-# temepraturasciudades-ecuador
+# temperaturasciudades-ecuador
